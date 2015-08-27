@@ -1,0 +1,1 @@
+{"version":3,"sources":["directives/showMoreOrLess/showMoreOrLess.less"],"names":[],"mappings":"AACA,kBACM,MAAA","file":"starter-angular-component.min.css","sourcesContent":["@showMoreOrLessLinkColor: #883333;\r\n.showMoreOrLess {\r\n  a { color: @showMoreOrLessLinkColor; }\r\n}\r\n"],"sourceRoot":"/source/"}

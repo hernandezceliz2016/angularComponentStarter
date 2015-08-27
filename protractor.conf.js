@@ -3,5 +3,6 @@ exports.config = {
       'browserName': 'chrome'
   },
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['demo/appSpecs.js']
+  specs: ['demo/appExamSpec.js']
+  //specs: ['demo/appSpecs.js','demo/appExamSpec.js']
 };

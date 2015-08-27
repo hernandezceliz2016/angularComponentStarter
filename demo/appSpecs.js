@@ -18,7 +18,7 @@
    */
   describe("DemoApp", function() {
     beforeEach(function() {
-      browser.get("http://0.0.0.0:5000");
+      browser.get("http://localhost:5000");
       browser.waitForAngular();
     });
 
@@ -38,4 +38,5 @@
     });
 
   });
+  
 })();
